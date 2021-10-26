@@ -2,10 +2,12 @@
 
 This guide will help us ensure that you have a simple and effective way to contribute to this project.
 
--   If you want to propose something new , please use the [Example Guide](./Example%20Guide.md) as a base template.
--   Before creating a Pull Request, please make sure that your suggestion is not already added to the project. You can submit an update if you believe it improves an existing idea.
+-   If you want to propose something, take a look at the existing Issues or create a new one.
+-   Before creating a Pull Request, please make sure that your suggestion is not already added/asked to the project. You can submit an update if you believe it improves an existing idea.
+-   Fork the Repo, create a branch for any issue that you are working on and commit your work.
 -   Make sure you check your spelling and grammar.
 -   Create individual PR for each suggestion.
+-   Please use the [Example Guide](./Example%20Guide.md) as a base template.
 
 Thank you for spending your time to improve this project!
 <img alg="thxgif" src="https://c.tenor.com/AJMU_LKePmUAAAAi/hands-high-five.gif" align="center" width="100">
