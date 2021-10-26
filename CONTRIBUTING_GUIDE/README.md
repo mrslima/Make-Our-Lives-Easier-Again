@@ -1,4 +1,4 @@
-### Tools
+## Tools
 - `Editing` | https://www.photopea.com/
 - `Color Pallete` | https://www.happyhues.co/
 
@@ -21,7 +21,8 @@
 <img alt="subheader_template" width="50%" src="https://github.com/mrslima/makeourliveseasieragain/blob/main/CONTRIBUTING_GUIDE/subheader_template.jpg">
 
 
-### Formatting
+## Formatting
 - Header/Subheader naming: ("-" for space; "_" for category) i.e. `learn_header.jpg` | `hello-world_subheader.jpg`
+  - Use: `<img alt="" src"">` | See this code and take a look on "Alignment" (if you are a beginner)
 - Issue TODO
 - General Contents TODO
