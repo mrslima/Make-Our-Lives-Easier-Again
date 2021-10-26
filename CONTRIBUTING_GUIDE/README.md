@@ -1,3 +1,4 @@
+guide e.g. https://github.com/florinpop17/app-ideas/blob/master/CONTRIBUTING.md
 ## Tools
 - `Editing` | https://www.photopea.com/
 - `Color Pallete` | https://www.happyhues.co/
