@@ -1,18 +1,10 @@
 # Main Table of Contents
-- [Learn](#Learn-ToF)
+- [Learn](https://github.com/mrslima/makeourliveseasieragain/tree/main/pages/Learn%20ToF)
 - [Programming Resources](#Programming-Resources-ToF)
 - [Random](#Random-ToF)
 
 ---
 
-# Learn ToF
-- [Programming](#Programming)
-  - [Web Development](#Web-Development)
-    - [Design](#Design)
-      - [eBooks](#eBooks)
-      - [Site](#Sites)
-
----
 
 # Programming Resources ToF
 - [General Stuff](#General-Stuff)
@@ -38,21 +30,6 @@
 
 # Random ToF
 - [Unlabeled](#Unlabeled)
-
----
-
-!!! learn img here !!!
-
-# Programming
-## Web Development
-### Design
-#### eBooks
-- https://hype4.academy/ebooks
-- https://www.designbetter.co/books
-#### Sites
-- https://hype4.academy/learn
-- https://atlassian.design/
-- https://principles.design/
 
 ---
 
