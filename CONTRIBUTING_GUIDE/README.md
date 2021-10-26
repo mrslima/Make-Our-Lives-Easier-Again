@@ -3,6 +3,8 @@
 2. Reviewer - review the PRs
 3. Contributor (you) - suggests something new to this repo
 
+Add a discord
+
 guide e.g. https://github.com/florinpop17/app-ideas/blob/master/CONTRIBUTING.md
 ## Tools
 - `Editing` | https://www.photopea.com/
@@ -17,7 +19,7 @@ guide e.g. https://github.com/florinpop17/app-ideas/blob/master/CONTRIBUTING.md
 ### Alignment
 <img alt="header_template" width="50%" src="https://github.com/mrslima/makeourliveseasieragain/blob/main/CONTRIBUTING_GUIDE/header_template.jpg">
 
-## Subheader (1000x100 px; 72 DPI)
+## Subheader (1000x150 px; 72 DPI)
 ### Font
 - Raleway; Extra Bold
 - Size: 60-100px
