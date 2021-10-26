@@ -1,4 +1,9 @@
 # Main Table of Contents
+- [Learn](#Learn-ToF)
+- [Programming Resources](#Programming-Resources-ToF)
+- [Random](#Random-ToF)
+
+---
 
 # Learn ToF
 - [Programming](#Programming)
@@ -6,6 +11,9 @@
     - [Design](#Design)
       - [eBooks](#eBooks)
       - [Site](#Sites)
+
+---
+
 # Programming Resources ToF
 - [General Stuff](#General-Stuff)
   - [Tools](#Tools)
@@ -26,6 +34,10 @@
       - [Mockups](#Mockups)
 - [Data Science & Machine Learning](#Data-Science-&-Machine-Learning)
 
+---
+
+# Random ToF
+- [Unlabeled](#Unlabeled)
 
 ---
 
@@ -44,7 +56,7 @@
 
 ---
 
-!!! img here !!!
+!!! Programming Resources img here !!!
 
 # General Stuff
 ## Tools
@@ -138,4 +150,10 @@
 - `Readme.so` is a really neat tool and allows you to quickly customize sections of your readme file to make it look as good as possible for your projects. [link](https://readme.so/)
 - `User Benchmark` is a great tool when you are setting up your new machine and want to compare benchmarks for different commercially available GPUs. [link](https://gpu.userbenchmark.com/Compare/Nvidia-RTX-3080-vs-Nvidia-RTX-3070/4080vs4083)
 - `Excalidraw` helps a lot because it facilitates the creation of basic drawings that are helpful in this type of context, so I have been using it to make sketches of processes like data pipelines and model architectures. [link](https://excalidraw.com/)
+
 ---
+
+!!! random img here !!!
+
+# Unlabeled
+- [**REHeader**](https://github.com/khalby786/REHeader) | `GitHub Profile README Header Image Generator`
