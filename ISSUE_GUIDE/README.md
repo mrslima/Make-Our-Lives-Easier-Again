@@ -13,21 +13,26 @@ source: Where did you finde it (e.g. https://github.com/mrslima/makeourliveseasi
 Date format: mm/dd/yyyy
 Use this as you PR title if you have submmited a Fix Suggestion.
 This will be used to identify your PR.
-
-GUIDE
-1. Use the currenty IssueID as the PR title.
-    It makes easier to find your PR since Issues is a priorit to us (we review issues first).
-    "Consistency first, news later."
-2. Add a description of the changes (common desc.)
-
-***Don't forget to add a label to your PR***
-Labels of Severity Levels:
-LOW: Grammar error | Grammar enhancement suggestion
-MEDIUM: Broken links | Broken code | Wrong category
-HIGH: Wrong info | Piracy | Plagiarism
-CRITICAL: Malware | Virus | Security threat
 ```
 
+### GUIDE
+- For PR formatting, visit [CONTRIBUTING_GUIDE](https://github.com/mrslima/makeourliveseasieragain/tree/main/CONTRIBUTING_GUIDE)
+1. Use the currenty IssueID as the PR title.
+```
+    It makes easier to find your PR since Issues is a priorit to us (we review issues first).
+    "Consistency first, news later."
+```
+2. Add a description (common desc.)
+[**How to Make a Perfect Pull Request**]( https://betterprogramming.pub/how-to-make-a-perfect-pull-request-3578fb4c112)
+
+**Don't forget to add a label to your PR**
+- Labels of Severity Levels:
+    - LOW: Grammar error | Grammar enhancement suggestion
+    - MEDIUM: Broken links | Broken code | Wrong category
+    - HIGH: Wrong info | Piracy | Plagiarism
+    - CRITICAL: Malware | Virus | Security threat
+
+---
 
 ## DETAILS: Try to fill as much as possible
 
