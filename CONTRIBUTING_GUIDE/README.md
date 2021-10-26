@@ -22,6 +22,6 @@
 
 
 ### Formatting
-- Header/Subheader naming: ("-" for space; "_" for category) i.e. `learn_header.jpg` | `programming-resources_subheader.jpg`
+- Header/Subheader naming: ("-" for space; "_" for category) i.e. `learn_header.jpg` | `hello-world_subheader.jpg`
 - Issue TODO
 - General Contents TODO
