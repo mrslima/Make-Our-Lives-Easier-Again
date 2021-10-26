@@ -1,37 +1,52 @@
-**Roles**
-1. Designer - do the headers following a guide
-2. Reviewer - review the PRs and Issues
-3. Contributor (you) - suggests something new to this repo
+## Contribution Guide
 
-Add a discord
+This guide will help us ensure that you have a simple and effective way to contribute to this project.
 
-guide e.g. https://github.com/florinpop17/app-ideas/blob/master/CONTRIBUTING.md
+-   If you want to propose something new , please use the [Example Guide](./Example%20Guide.md) as a base template.
+-   Before creating a Pull Request, please make sure that your suggestion is not already added to the project. You can submit an update if you believe it improves an existing idea.
+-   Make sure you check your spelling and grammar.
+-   Create individual PR for each suggestion.
+
+Thank you for spending your time to improve this project!
+<img alg="thxgif" src="https://c.tenor.com/AJMU_LKePmUAAAAi/hands-high-five.gif" align="center" width="100">
+
+---
+
+# Banner Guide
 ## Tools
 - `Editing` | https://www.photopea.com/
-- `Color Pallete` | https://www.happyhues.co/
+- `Color Pallete` | https://colorhunt.co/
+- `Emoji` | https://www.emojiall.com/
 
-## Header (1000x300 px; 72 DPI)
-### Font
+### Header (1000x300 px; 72 DPI)
+#### Font
 - Raleway; Extra Bold
 - Size: 70-130px
-- Outline/Stroke: Center; Size: 3-5px
-- Shadow: (with arrows keys) 3x right; 3x down
-### Alignment
+- Stroke: Center; Size: 3-7px
+- Drop Shadow:
+  - Opacity: 30-90%
+  - Angle: 120 degrees
+  - Distance: 5-10
+  - Spread: 100
+  - Size: 0
+#### Alignment
 <img alt="header_template" width="50%" src="https://github.com/mrslima/makeourliveseasieragain/blob/main/CONTRIBUTING_GUIDE/header_template.jpg">
 
-## Subheader (1000x150 px; 72 DPI)
-### Font
+### Subheader (1000x150 px; 72 DPI)
+#### Font
 - Raleway; Extra Bold
 - Size: 60-100px
-- Outline/Stroke: Center; Size: 3-5px
-- Shadow: (with arrows keys) 3x right; 3x down
-### Alignment
+- Stroke: Center; Size: 3-5px
+- Drop Shadow:
+  - Opacity: 30-90%
+  - Angle: 120 degrees
+  - Distance: 5-10
+  - Spread: 100
+  - Size: 0
+#### Alignment
 <img alt="subheader_template" width="50%" src="https://github.com/mrslima/makeourliveseasieragain/blob/main/CONTRIBUTING_GUIDE/subheader_template.jpg">
 
-
-## Formatting
+### Formatting
 - Header/Subheader:
   - File naming: ("-" for space; "_" for category) i.e. `learn_header.jpg` | `hello-world_subheader.jpg`;
-  - File embedding: `<img alt="" src"">` | If you are a beginner, see this code and take a look at "Alignment".
-- Issue TODO
-- General Contents TODO
+  - File embedding: `<img alt="" src"">` | If you are a beginner, take a look at this code and see "Alignment".
