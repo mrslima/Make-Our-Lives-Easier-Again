@@ -5,7 +5,6 @@
 
 ---
 
-
 # Programming Resources ToF
 - [General Stuff](#General-Stuff)
   - [Tools](#Tools)
