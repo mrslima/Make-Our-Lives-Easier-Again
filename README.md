@@ -1,17 +1,22 @@
-# Table of Contents
+# Main Table of Contents
+
+# Learn ToF
+- [Programming](#Programming)
+  - [Web Development](#Web-Development)
+    - [Design](#Design)
+      - [eBooks](#eBooks)
+      - [Site](#Sites)
+# Programming Resources ToF
 - [General Stuff](#General-Stuff)
   - [Tools](#Tools)
   - [Generators](#Generators)
   - [Audio](#Audio)
 - [Web Development](#Web-Development)
   - [Resources](#Resources)
-    - [Cheatsheets](#)
-    - [Testing](#)
-    - [Info](#)
+    - [Cheatsheets](#Cheatsheets)
+    - [Testing](#Testing)
+    - [Info](#Info)
   - [Design](#Design)
-    - [Learn](#Learn)
-      - [eBooks](#eBooks)
-      - [Site](#Sites)
     - [Ideas](#Ideas)
     - [Resources](#Resources)
       - [Icons](#Icons)
@@ -20,13 +25,26 @@
       - [Fonts](#Fonts)
       - [Mockups](#Mockups)
 - [Data Science & Machine Learning](#Data-Science-&-Machine-Learning)
-- [Useful Stuff](#Useful-Stuff)
 
-## MyProjets
-- `BuyMeACoffee` https://www.buymeacoffee.com/mrslima after 18yo.
-- `Figma` https://www.figma.com/
 
 ---
+
+!!! learn img here !!!
+
+# Programming
+## Web Development
+### Design
+#### eBooks
+- https://hype4.academy/ebooks
+- https://www.designbetter.co/books
+#### Sites
+- https://hype4.academy/learn
+- https://atlassian.design/
+- https://principles.design/
+
+---
+
+!!! img here !!!
 
 # General Stuff
 ## Tools
@@ -55,15 +73,6 @@
 
 
 ## Design
-### Learn
-#### eBooks
-- https://hype4.academy/ebooks
-- https://www.designbetter.co/books
-#### Sites
-- https://hype4.academy/learn
-- https://atlassian.design/
-- https://principles.design/
-
 ### Ideas
 - https://www.codepen.io
 - https://www.uplabs.com/
