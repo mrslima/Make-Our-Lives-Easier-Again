@@ -1,3 +1,5 @@
+<img alt="welcome" src="https://github.com/mrslima/makeourliveseasieragain/blob/main/mainpage_resources/welcome.jpg">
+
 # Main Table of Contents
 - [Learn](https://github.com/mrslima/makeourliveseasieragain/tree/main/pages/Learn%20ToF)
 - [Programming Resources](#Programming-Resources-ToF)
