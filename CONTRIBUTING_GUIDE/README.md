@@ -1,6 +1,6 @@
 **Roles**
 1. Designer - do the headers following a guide
-2. Reviewer - review the PRs
+2. Reviewer - review the PRs and Issues
 3. Contributor (you) - suggests something new to this repo
 
 Add a discord
