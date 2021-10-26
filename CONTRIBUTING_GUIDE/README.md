@@ -1,3 +1,8 @@
+**Roles**
+1. Designer - do the headers following a guide
+2. Reviewer - review the PRs
+3. Contributor (you) - suggests something new to this repo
+
 guide e.g. https://github.com/florinpop17/app-ideas/blob/master/CONTRIBUTING.md
 ## Tools
 - `Editing` | https://www.photopea.com/
