@@ -22,7 +22,8 @@
 
 
 ## Formatting
-- Header/Subheader naming: ("-" for space; "_" for category) i.e. `learn_header.jpg` | `hello-world_subheader.jpg`
-  - Use: `<img alt="" src"">` | See this code and take a look on "Alignment" (if you are a beginner)
+- Header/Subheader:
+  - File naming: ("-" for space; "_" for category) i.e. `learn_header.jpg` | `hello-world_subheader.jpg`;
+  - File embedding: `<img alt="" src"">` | If you are a beginner, see this code and take a look at "Alignment".
 - Issue TODO
 - General Contents TODO
