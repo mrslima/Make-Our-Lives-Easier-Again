@@ -1,6 +1,6 @@
 <img alt="header_template" src="https://github.com/mrslima/makeourliveseasieragain/blob/main/pages/Learn%20ToF/learn_header.jpg">
 
-# Learn ToF
+# Table of Contents
 - [Programming](#Programming)
   - [Web Development](#Web-Development)
     - [Design](#Design)
