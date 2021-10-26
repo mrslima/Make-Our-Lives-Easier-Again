@@ -2,7 +2,7 @@
 
 # Table of Contents
 - [Learn](https://github.com/mrslima/makeourliveseasieragain/tree/main/pages/Learn)
-- [Programming Resources](#Programming-Resources-ToF)
-- [Random](#Random-ToF)
+- [Programming Resources](https://github.com/mrslima/makeourliveseasieragain/tree/main/pages/Programming%20Resources)
+- [Random](https://github.com/mrslima/makeourliveseasieragain/tree/main/pages/Random)
 
 ---
