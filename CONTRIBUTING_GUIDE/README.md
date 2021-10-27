@@ -1,21 +1,29 @@
+# Table of Contents
+- [Contribution Guide](#Contribution-Guide)
+- [Banner Guide](#Banner-Guide)
+- [Sources](#Sources)
+---
+
 ## Contribution Guide
 
 This guide will help us ensure that you have a simple and effective way to contribute to this project.
 
 -   If you want to propose something, take a look at the existing Issues or create a new one.
--   Before creating a Pull Request, please make sure that your suggestion is not already added/asked to the project. You can submit an update if you believe it improves an existing idea.
+-   Before creating an Issue, please make sure that your suggestion is not already added to the project. You can submit an update if you believe it improves an existing idea.
 -   Fork the Repo, create a branch for any issue that you are working on and commit your work.
 -   Make sure you check your spelling and grammar.
--   Create individual PR for each suggestion.
--   Please use the [Example Guide](./Example%20Guide.md) as a base template.
+-   Create individual Issue & PR for each suggestion.
+-   Please use as a base the templates below. If needed: [How to Make a Perfect Pull Request](https://betterprogramming.pub/how-to-make-a-perfect-pull-request-3578fb4c112) (Try Incognito Tab)
 
-Thank you for spending your time to improve this project!
-<img alg="thxgif" src="https://c.tenor.com/AJMU_LKePmUAAAAi/hands-high-five.gif" align="center" width="100">
+Thank you for spending your time to improve this project! (｡◕‿◕｡)
+
+<img alg="issue" src="https://github.com/mrslima/makeourliveseasieragain/blob/main/CONTRIBUTING_GUIDE/issue_guide.jpg">
+<img alg="issue" src="https://github.com/mrslima/makeourliveseasieragain/blob/main/CONTRIBUTING_GUIDE/pr_guide.jpg">
 
 ---
 
-# Banner Guide
-## Tools
+## Banner Guide
+### Tools
 - `Editing` | https://www.photopea.com/
 - `Color Pallete` | https://colorhunt.co/
 - `Emoji` | https://www.emojiall.com/
@@ -52,3 +60,8 @@ Thank you for spending your time to improve this project!
 - Header/Subheader:
   - File naming: ("-" for space; "_" for category) i.e. `learn_header.jpg` | `hello-world_subheader.jpg`;
   - File embedding: `<img alt="" src"">` | If you are a beginner, take a look at this code and see "Alignment".
+
+---
+
+## Sources
+- **Labels** | https://seantrane.com/posts/logical-colorful-github-labels-18230/
