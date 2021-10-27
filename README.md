@@ -1,4 +1,4 @@
-<img alt="welcome" src="https://github.com/mrslima/makeourliveseasieragain/blob/main/homepage_resources/welcome_header.jpg">
+<img alt="welcome" src="https://github.com/mrslima/makeourliveseasieragain/blob/main/homepage_resources/welcome.jpg">
 
 # 📖Table of Contents
 - [Learn](https://github.com/mrslima/makeourliveseasieragain/tree/main/pages/Learn)
