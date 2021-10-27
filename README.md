@@ -9,7 +9,10 @@
 - [Random](https://github.com/mrslima/makeourliveseasieragain/tree/main/pages/Random)
 
 ---
+<a href="https://github.com/mrslima/Make-Our-Lives-Easier-Again/blob/main/CODE_OF_CONDUCT.md">
+  <img alt="Code of Conduct" src="https://github.com/mrslima/Make-Our-Lives-Easier-Again/blob/main/homepage_resources/code_of_conduct.jpg">
+</a>
 
-<img alt="Code of Conduct" href="https://github.com/mrslima/Make-Our-Lives-Easier-Again/blob/main/CODE_OF_CONDUCT.md" src="https://github.com/mrslima/Make-Our-Lives-Easier-Again/blob/main/homepage_resources/code_of_conduct.jpg">
-
-<img alt="CONTRIBUTE!" href="https://github.com/mrslima/makeourliveseasieragain/tree/main/CONTRIBUTING_GUIDE" src="https://github.com/mrslima/Make-Our-Lives-Easier-Again/blob/main/homepage_resources/contribute.jpg">
+<a href="https://github.com/mrslima/makeourliveseasieragain/tree/main/CONTRIBUTING_GUIDE">
+  <img alt="CONTRIBUTE!" src="https://github.com/mrslima/Make-Our-Lives-Easier-Again/blob/main/homepage_resources/contribute.jpg">
+</a>
