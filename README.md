@@ -16,3 +16,7 @@
 <a href="https://github.com/mrslima/makeourliveseasieragain/tree/main/CONTRIBUTING_GUIDE">
   <img alt="CONTRIBUTE!" src="https://github.com/mrslima/Make-Our-Lives-Easier-Again/blob/main/homepage_resources/contribute.jpg">
 </a>
+
+<a href="http://www.staggeringbeauty.com/">
+  <img alt="flag" align="center" src="https://github.com/mrslima/Make-Our-Lives-Easier-Again/blob/main/homepage_resources/end_sep.png">
+</a>
