@@ -2,7 +2,10 @@
 
 # 📖Table of Contents
 - [Learn](https://github.com/mrslima/makeourliveseasieragain/tree/main/pages/Learn)
-- [Programming Resources](https://github.com/mrslima/makeourliveseasieragain/tree/main/pages/Programming%20Resources)
+- [Practice](https://github.com/mrslima/Make-Our-Lives-Easier-Again/tree/main/pages/Programming/Practice)
+- Programming
+  - [Books](https://github.com/mrslima/Make-Our-Lives-Easier-Again/tree/main/pages/Programming/Books)
+  - [Resources](https://github.com/mrslima/Make-Our-Lives-Easier-Again/tree/main/pages/Programming/Resources)
 - [Random](https://github.com/mrslima/makeourliveseasieragain/tree/main/pages/Random)
 
 ---
