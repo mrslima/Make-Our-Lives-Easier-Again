@@ -93,7 +93,7 @@
 # Tools
 - `Frame for code` | https://ray.so/ | https://carbon.now.sh/ | https://codeimg.io/
 - `Frame for Twitter` | https://poet.so/
-- `CSS Generator` | ttps://keyframes.app/
+- `CSS Generator` | https://keyframes.app/
 - `Compilates a lot of tools for anything` | https://hiddentools.dev/ | https://smalldev.tools/ | https://ui8.net/
 - `Embeddable Widget Apps for Notion` | https://apption.co/
 - `Readme Generator` | https://readme.so/editor
