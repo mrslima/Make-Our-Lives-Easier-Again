@@ -57,7 +57,7 @@
 |   Name   |       OS       |              Pros              |                   Cons                   | System Requirements |
 |----------|----------------|--------------------------------|------------------------------------------|---------------------|
 | **Adobe Photoshop** | Win/Mac | Rich range of tools; Efficient file management; Constantly updating | Less support for vector and raster images | [Link](https://helpx.adobe.com/photoshop/system-requirements.html) |
-|  |  |  |  | [Link]() |
+| **Sketch** | Mac/iOs/Web | Collaborative environment; Extensions: It’s nice to have access to a range of additional developer plugins and tools; Libraries | It’s really just for prototypes and UI design, not for photo editing; There are limited illustration capabilities, and low support for high resolution | [Link](https://help.sketchup.com/en/sketchup/system-requirements) |
 |  |  |  |  | [Link]() |
 |  |  |  |  | [Link]() |
 |  |  |  |  | [Link]() |
@@ -71,10 +71,12 @@
 | **Inkscape** | Win/Mac/Linux | Open-source; Begginer friend-ly | Can be very slow in large projects | Not found |
 | **GIMP** | Win/Mac/Linux | Open-source; Modern UI | Contains several bugs; A bit difficult for beginners | [Link](https://www.gimp.org/downloads/install_help.html) |
 | **Visme** | Win/Mac | Can create animation and videos; Integrates with other apps | 80% is free; Few core features are available only to Premium users | Not found |
+| **Gravit Designer** | Win/Mac/Linux/ChromeOS | Reliability: access from anywhere from your browser; Simplicity; Cloud Integration | Need to upgrade to the premium version for more storage; No real-time collaboration; Professional option starting at $100/year | [Link](https://documentation.designer.io/faq/what-are-minimum-and-recommended-system-requirements-to-run-gravit-designer/) |
+<!--
 |  |  |  |  | [Link]() |
 |  |  |  |  | [Link]() |
 |  |  |  |  | [Link]() |
-|  |  |  |  | [Link]() |
+-->
 
 ### Ideas
 - https://www.codepen.io
