@@ -9,6 +9,9 @@
     - [Testing](#Testing)
     - [Info](#Info)
   - [Design](#Design)
+    - [Software](@Software)
+      - [Paid](#Paid)
+      - [Free](#Free)
     - [Ideas](#Ideas)
     - [Resources](#Resources)
       - [Icons](#Icons)
@@ -49,6 +52,30 @@
 
 
 ## Design
+### Software
+#### Paid
+|   Name   |       OS       |              Pros              |                   Cons                   | System Requirements |
+|----------|----------------|--------------------------------|------------------------------------------|---------------------|
+| **Adobe Photoshop** | Win/Mac | Rich range of tools; Efficient file management; Constantly updating | Less support for vector and raster images | [Link](https://helpx.adobe.com/photoshop/system-requirements.html) |
+|  |  |  |  | [Link]() |
+|  |  |  |  | [Link]() |
+|  |  |  |  | [Link]() |
+|  |  |  |  | [Link]() |
+|  |  |  |  | [Link]() |
+|  |  |  |  | [Link]() |
+
+
+#### Free
+|   Name   |       OS       |              Pros              |                   Cons                   | System Requirements |
+|----------|----------------|--------------------------------|------------------------------------------|---------------------|
+| **Inkscape** | Win/Mac/Linux | Open-source; Begginer friend-ly | Can be very slow in large projects | Not found |
+| **GIMP** | Win/Mac/Linux | Open-source; Modern UI | Contains several bugs; A bit difficult for beginners | [Link](https://www.gimp.org/downloads/install_help.html) |
+| **Visme** | Win/Mac | Can create animation and videos; Integrates with other apps | 80% is free; Few core features are available only to Premium users | Not found |
+|  |  |  |  | [Link]() |
+|  |  |  |  | [Link]() |
+|  |  |  |  | [Link]() |
+|  |  |  |  | [Link]() |
+
 ### Ideas
 - https://www.codepen.io
 - https://www.uplabs.com/
