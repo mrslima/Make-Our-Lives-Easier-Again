@@ -31,6 +31,15 @@
 - [Design Tools](https://www.producthunt.com/topics/design-tools)
 - [Art Tools](https://www.producthunt.com/topics/art)
 - Presentation | https://ludus.one/
+- `Frame for code` | https://ray.so/ | https://carbon.now.sh/ | https://codeimg.io/
+- `Frame for Twitter` | https://poet.so/
+- `CSS Generator` | https://keyframes.app/
+- `Compilates a lot of tools for anything` | https://hiddentools.dev/ | https://smalldev.tools/ | https://ui8.net/ | https://free-for.dev/
+- `Embeddable Widget Apps for Notion` | https://apption.co/
+- `Readme Generator` | https://readme.so/editor
+- `Resume/CV maker` | https://zety.com/
+- `General Cheatsheet` | https://cheatography.com/ | https://devhints.io/
+- `Roadmap` | https://roadmap.sh/ |
 
 ## Generators
 - `CSS` | https://zcreativelabs.com/ | https://border-radius.com/ | https://cssgrid-generator.netlify.app/ | https://cssgrid-generator.netlify.app/ | https://www.blobmaker.app/ | https://shadows.brumm.af/ | https://animista.net/ | 
@@ -124,18 +133,6 @@
 - https://placeit.net/
 - https://www.mockupworld.co/all-mockups/
 - https://graphicburger.com/mock-ups/
-
----
-
-# Tools
-- `Frame for code` | https://ray.so/ | https://carbon.now.sh/ | https://codeimg.io/
-- `Frame for Twitter` | https://poet.so/
-- `CSS Generator` | https://keyframes.app/
-- `Compilates a lot of tools for anything` | https://hiddentools.dev/ | https://smalldev.tools/ | https://ui8.net/
-- `Embeddable Widget Apps for Notion` | https://apption.co/
-- `Readme Generator` | https://readme.so/editor
-- `Resume/CV maker` | https://zety.com/
-- `General Cheatsheet` | https://cheatography.com/ | https://devhints.io/
 
 ---
 
