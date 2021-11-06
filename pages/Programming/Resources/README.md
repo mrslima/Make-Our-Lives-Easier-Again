@@ -9,7 +9,7 @@
     - [Testing](#Testing)
     - [Info](#Info)
   - [Design](#Design)
-    - [Software](@Software)
+    - Software
       - [Paid](#Paid)
       - [Free](#Free)
     - [Ideas](#Ideas)
@@ -57,12 +57,11 @@
 |   Name   |       OS       |              Pros              |                   Cons                   | System Requirements |
 |----------|----------------|--------------------------------|------------------------------------------|---------------------|
 | **Adobe Photoshop** | Win/Mac | Rich range of tools; Efficient file management; Constantly updating | Less support for vector and raster images | [Link](https://helpx.adobe.com/photoshop/system-requirements.html) |
-| **Sketch** | Mac/iOs/Web | Collaborative environment; Extensions: It’s nice to have access to a range of additional developer plugins and tools; Libraries | It’s really just for prototypes and UI design, not for photo editing; There are limited illustration capabilities, and low support for high resolution | [Link](https://help.sketchup.com/en/sketchup/system-requirements) |
-|  |  |  |  | [Link]() |
-|  |  |  |  | [Link]() |
-|  |  |  |  | [Link]() |
-|  |  |  |  | [Link]() |
-|  |  |  |  | [Link]() |
+| **Sketch** | Mac/iOS/Web | Collaborative environment; Extensions: It’s nice to have access to a range of additional developer plugins and tools; Libraries | It’s really just for prototypes and UI design, not for photo editing; There are limited illustration capabilities, and low support for high resolution | [Link](https://www.sketch.com/support/general/system-requirements/) |
+| **Affinity** | Win/Mac/iOS | Lightweight; Flexibility: Make designs as simple or complex as you like;  | Some limitations on your exporting options for files (no AI); No artificial intelligence enhancements like with Illustrator | [Link](https://affinity.serif.com/en-us/designer/full-feature-list/) |
+| **Adobe Illustrator** | Win/Mac/iOS/Android | Cloud sharing; Intuitive experience; Aside from giving you a great user experience with the interface, Adobe also ensures that you can get the most out of your service with guides and tutorials.; Creative cloud link: You can connect Illustrator with the other features of Adobe’s Creative Cloud to access features through Photoshop, and similar products;  AI innovation; | It’s a pretty chunky application that requires a lot of bandwidth | [Link](https://helpx.adobe.com/illustrator/system-requirements.html) |
+| **Adobe InDesign** | Win/Mac | Is much easier to use than other Adobe products; HTML suppor; Connections to creative cloud; Adobe fonts: InDesign will automatically find and activate all of the available Adobe fonts in your library; Intelligent design features; Easy access to stock imagery;  | This is a product designed for people who know how to build publications; PDF comment integration is a little clunky in places | [Link](https://helpx.adobe.com/indesign/kb/system-requirements-indesign-server.html) |
+| **Corel Draw** | Win/Mac | Easier to get connected and make progress on a shared project; Versatility: You can use Corel Draw on virtually device, including smooth drawing surfaces, laptops, and desktops; Huge community collection of assets | Does require a lot of initial learning due to the wide range of features | [Link](https://www.coreldraw.com/en/pages/coreldraw-2019/) |
 
 
 #### Free
@@ -103,6 +102,7 @@
 - https://blush.design/
 - https://freeillustrations.xyz/
 - https://squoosh.app/
+- https://deviantart.com
 - https://undraw.co/
 #### Colors
 - https://colorhunt.co/
