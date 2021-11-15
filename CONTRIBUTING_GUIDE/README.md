@@ -17,8 +17,8 @@ This guide will help us ensure that you have a simple and effective way to contr
 
 Thank you for spending your time to improve this project! (｡◕‿◕｡)
 
-<img alg="issue" src="https://github.com/mrslima/makeourliveseasieragain/blob/main/CONTRIBUTING_GUIDE/issue_guide.jpg">
-<img alg="issue" src="https://github.com/mrslima/makeourliveseasieragain/blob/main/CONTRIBUTING_GUIDE/pr_guide.jpg">
+<img alg="issue" src="https://github.com/mrslima/makeourliveseasieragain/blob/main/CONTRIBUTING_GUIDE/issue_guide.svg">
+<img alg="issue" src="https://github.com/mrslima/makeourliveseasieragain/blob/main/CONTRIBUTING_GUIDE/pr_guide.svg">
 
 ---
 
